@@ -1,0 +1,7 @@
+br\unipar\sistema\vendas\domain\CarrinhoDeCompras.class
+br\unipar\sistema\vendas\service\NotaFiscalService.class
+br\unipar\sistema\vendas\domain\Item.class
+br\unipar\sistema\vendas\service\PagamentoService.class
+br\unipar\sistema\vendas\domain\Produto.class
+br\unipar\sistema\vendas\service\DescontoService.class
+br\unipar\sistema\vendas\SistemaVendas.class

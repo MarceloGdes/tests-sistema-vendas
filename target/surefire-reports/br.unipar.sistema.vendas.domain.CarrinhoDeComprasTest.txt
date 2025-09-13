@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.unipar.sistema.vendas.domain.CarrinhoDeComprasTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.110 s -- in br.unipar.sistema.vendas.domain.CarrinhoDeComprasTest
